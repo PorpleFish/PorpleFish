@@ -1,4 +1,4 @@
-[![GitHub Streak](https://streak-stats.demolab.com?user=PorpleFish&theme=tokyonight-duo&hide_border=true&mode=weekly&hide_total_contributions=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=PorpleFish&theme=tokyonight-duo)](https://git.io/streak-stats)
 <!--
 **PorpleFish/PorpleFish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
